@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Social data 2023
-email: valtterikarlsson@outlook.com
+#email: valtterikarlsson@outlook.com
+
 description: Valtteri's homepage for course Social data analysis and visualization 2023
 
 baseurl: "" # the subpath of your site, e.g. /blog
