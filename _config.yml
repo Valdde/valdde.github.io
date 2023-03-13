@@ -31,7 +31,7 @@ twitter_username:
 github_username:  Valdde
 
 # Build settings
-theme: minima
+remote_theme: cayman
 plugins:
   - jekyll-feed
 
