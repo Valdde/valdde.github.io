@@ -20,10 +20,7 @@
 
 title: Social data 2023
 email: valtterikarlsson@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-
-  Valtteri's homepage for course Social data analysis and visualization 2023
-
+description: Valtteri's homepage for course Social data analysis and visualization 2023
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://valdde.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
