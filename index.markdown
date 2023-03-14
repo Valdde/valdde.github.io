@@ -7,7 +7,7 @@ layout: default
 
 <embed 
        type="text/html" 
-       src="/bokeh/crimes_per_hour.html"
+       src="crimes_per_hour.html"
        width="1100"
        height="600"
        >
