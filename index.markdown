@@ -5,6 +5,20 @@
 layout: default
 ---
 
+Data exploration (ideas for plots etc.)
+
+The page, pick a theme, maybe some minor aesthetics
+
+Idea of the main interactive visualization
+  how do we display this in the video?
+
+Outline of the movie
+  editing?
+  ideas?
+  make sure we get it all in there: look at https://github.com/suneman/socialdata2023/wiki/Final-Project 
+
+
+
 <embed 
        type="text/html" 
        src="crimes_per_hour.html"
