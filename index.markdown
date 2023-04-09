@@ -18,6 +18,8 @@ Outline of the movie
   make sure we get it all in there: look at https://github.com/suneman/socialdata2023/wiki/Final-Project 
 
 
+![fig1](/fig1.png)
+
 
 <embed 
        type="text/html" 
