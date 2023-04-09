@@ -24,6 +24,7 @@ Both the police force and a corps of parking agents, often from private companie
 
 The city of Helsinki deals in two types of “fines”, one is a straight forward fine and that is also the most common. They do however also have the option to simply put a notice in the windscreen of your car. More friendly than a fine, this is a reminder that you haven’t parked all that well, but you won’t get a fine! As you can see from the below plots, this notice is not widely used. But if you do get one, it will most likely be from the parking agents, the police do not bother to use these (beside 1 given out in 2014) and only deal with actuals tickets.
 
+![fig2](/fig2.png)
 
 But if you do want to file a complaint, you shouldn’t expect much to come from it as the vast majority of disputes are settled in favour of the parking enforcement companies.  However, if you are a tourist bringing your own car, you might be able to park in a slightly riskier manner, as the city has been mostly unable to actually get a hold of the money, when they have fined a foreign vehicle for a parking violation. A whopping 80 percent of fines given to foreign vehicles between 2012-2017 thus remains unpaid, costing the city an estimated 4,5 million Euros in lost income. 
 
