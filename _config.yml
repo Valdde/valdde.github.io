@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Social data 2023
+title: Parking Violations in Helsinki
 #email: valtterikarlsson@outlook.com
 
-description: Valtteri's homepage for course Social data analysis and visualization 2023 Tämä on testi
+description: Where to park and what parking violations in Helsinki can teach us about. \\Final project in Social data analysis and visualization 2023 at DTU
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://valdde.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
