@@ -34,15 +34,9 @@ If you remain undeterred, you've come to the right place. Because planning is go
 
 ![HistLatitude](/HistLatitude.png)
 
-# Map
+# Heat map of the parking tickets in Helsinki
 
-<embed 
-       type="text/html" 
-       src="crimes_per_hour.html"
-       width="1100"
-       height="600"
-       >
-</embed>
+![map_for_video](/map_for_video.png)
 
 
 Data exploration (ideas for plots etc.)
