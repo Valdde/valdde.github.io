@@ -34,6 +34,16 @@ If you remain undeterred, you've come to the right place. Because planning is go
 
 ![HistLatitude](/HistLatitude.png)
 
+
+# Bokeh
+
+<embed 
+       type="text/html" 
+       src="Bokeh_Plot.html"
+       width="1100"
+       height="800"
+       >
+
 # Heat map of the parking tickets in Helsinki
 
 ![map_for_video](/map_for_video.png)
