@@ -46,7 +46,14 @@ If you remain undeterred, you've come to the right place. Because planning is go
 
 # Heat map of the parking tickets in Helsinki
 
-![map_for_video](/map_for_video.png)
+
+<embed 
+       type="text/html" 
+       src="heat_map_Helsinki.html"
+       width="800"
+       height="500"
+       >
+
 
 
 Data exploration (ideas for plots etc.)
