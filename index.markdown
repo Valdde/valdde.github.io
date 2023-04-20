@@ -44,8 +44,9 @@ If you remain undeterred, you've come to the right place. Because planning is go
        height="800"
        >
 
-# Heat map of the parking tickets in Helsinki
+# Watch out for these places in Helsinki
 
+[Overall stuff about Helsinki here]
 
 <embed 
        type="text/html" 
@@ -53,6 +54,36 @@ If you remain undeterred, you've come to the right place. Because planning is go
        width="800"
        height="500"
        >
+
+
+
+
+Mäntymäenkenttä parkin area located in Töölö is the the place to go in case you want to find a yellow piece of paper from your car window. Actually Mäntymäenkenttä was the most likely place for the yellow ticket between 2014-2017 as we can see from the attached figure x. 
+
+![Top 10 locations in Helsinki with the most tickets between 2014-2017](/Top 10 locations in Helsinki with the most tickets between 2014-2017.png)
+
+The parking area became chargeable in September 2013. Nowadays, the parking fee at Mäntymäenkenttä is 2 e/hour between 9-21 on weekdays and otherwise free of charge. This change most likely explains why there were significantly fewer parking tickets in 2015 compared to 2014. At 2014, those that have been earlier to the events nearby, were coming and thinking that the parking would be still free and got unpleasant suprise but learned from that and did not make the same mistake again in the following year.
+
+![Parking tickets by year in Mäntymäenkenttä 2014-2017](/Parking tickets by year in Mäntymäenkenttä 2014-2017.png)
+
+
+Several large event centers are located nerby such as Olympiastadion, Bolt Arena footbal stadium and Helsinki Ice Hall. These three alone can hold a total of about 50 thousand people. Thus, several sporting event and concerts are organized in the area every year, and therefore Mäntymäenkenttä is in heavy use, especially during the weekends when the Olympiastadion is in use. Considering that most of the earlier mentioned events are held during weekends, it's inevitable to start to question whether the events are the main reason for the large amount of fines at the pariking area or could there also be something else behind it.
+
+Most of the events organized in the area are scheduled for the summer months, so the parking fines could be expected to be concentrated in these months. However, we can see from the graph y that this is not really the case. Of course, the statictics are affected by many different things, such as the activity of the inspectors but clearly most of the fines do not fall on the people who are attending the events. Instead, it's likely that most of the fines fall on commuters and the residents of the surronding areas. The summer months are common summer vacation months and the fine amounts are naturallly smaller then. In additon we notice from the graph x that the amount of parking tickets did not restore after Covid even though events were organized in 2022 in the area as before. It is more likely that the change is due to the fact that remote work became more common during Covid and as a result the amount commuters decreased dramatically.
+
+
+![Parking tickets by month in Mäntymäenkenttä 2014-2017](/Parking tickets by month in Mäntymäenkenttä 2014-2017.png)
+
+On the other hand, there are also many people living in the area where private parking space prices easily rise to more than 200 euros per month. Therefore, a nearby parking lot with free parking overnight, is an attractive option. The writer is able to testify that sometimes you forget to move the car, which is a perfect opportunity for the inspector... 
+
+
+[Another micro location here]
+
+
+
+
+
+
 
 
 
