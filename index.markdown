@@ -86,22 +86,29 @@ Most of the events organized in the area are scheduled for the summer months, so
 On the other hand, there are also many people living in the area where private parking space prices easily rise to more than 200 euros per month. Therefore, a nearby parking lot with free parking overnight, is an attractive option. The writer is able to testify that sometimes it is possible to forgot your car to the parking area, which offers a perfect opportunity for the inspector... 
 
 
-# Salomonkatu 19
+# Does the placement of the traffic signs cause the tickets?
 
-When looking at the map describing the distribution of parking fines in Helsinki, most of the top 10 locations have reached the statistics thanks to the parking area located at the spot. 
-
-However, one particular address catches the eye: Salomonkatu 19. There is no parking area located there unlike the others. Actually, parking at Salomonkatu 19 is forbidden with the sign at the beginning of the road. 
-
+When looking at the map describing the distribution of parking fines in Helsinki, most of the top 10 locations have reached the statistics thanks to the parking area located at the spot. However, two particular address catches the eye: Mikonkatu 15 and Salomonkatu 19. There is no big parking area in connection wiht thse addresses. Mikonkatu 15 is located next to central railwaystation and the large number of tickets is probably explained by that. However, Salomonkatu 19 catches the eye. There is no parking area located there and it seems strange how many tickets are coming from such as small street. After research, it turns out that parking at Salomonkatu 19 is completely prohibited. The most common reason for parking ticket is thus not obeying the no-parking zone traffic sign (2813).The question is whether it is really the case that people park in the area on purpose or whether some other factor affects the matter
 
 ![Salomonkatu_19](/Salomonkatu_19.png)
-Salomonkatu 19. Parking forbidden sign on the right side of the rode. Car owners mat be in for a unpleasant suprise...
+Salomonkatu 19. Parking forbidden sign on the right side of the rode. Car owners may be in for a unpleasant suprise...
 
 
+The Kamppi shopping center and several different services are located nearby Salomonkatu 19 and thus the street may be a attractive place to leave your car because it's a bit to the side of the shopping center, and it's quick to leave car there. However, it's really unlikely that so many people would leave their car on purpose knowing that they might get a ticket. There must be something else here...
 
 ![Salomonkatu_19_fine ](/Salomonkatu_19_fine.png)
+Fined car at Salomonkatu 19.
 
 ![salomkatu19_insprector](/salomkatu19_insprector.png)
+Inspector doing his job at Salomonkatu.
 
+Maybe there is some factor causing that people don't simply know about the of the no parking-zone. According to Kossila (2019) no parking zone traffic sign is particularly poorly known in Finland(x source). The location of the sign also raises questions. The sign is located immediately after the roundabout, where the drivers focus is in multiple different things at the same time. When turning right, the driver must look out of the pedestrians and cyclist, and it could be hard to notice the parking sign at the same time. Could the placement of sign cause that drivers don't notice it? 
+
+[Source: https://www.hs.fi/autot/art-2000006044133.html]
+
+
+![Salomonkatu19_driver's_view](/Salomonkatu19_driver's_view.png)
+The driver's view in the roundabout when driving from the Northwest. Salomonkati is located on the right.
 
 
 
