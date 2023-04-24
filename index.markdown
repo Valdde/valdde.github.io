@@ -50,6 +50,13 @@ There are two types of drivers out there: those who have received a parking tick
 
 Every year, the city of Helsinki gets income of approx 10 million euros from the parking tickets (160 000 tickets). Roughly estimated, the top 10 locations brought about 760 000 euros from the whole pot (13 000 tickets).
 
+<embed 
+       type="text/html" 
+       src="Helsinki_plotly.html"
+       width="800"
+       height="500"
+       >
+
 
 <embed 
        type="text/html" 
