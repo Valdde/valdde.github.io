@@ -34,6 +34,15 @@ If you remain undeterred, you've come to the right place. Because planning is go
 
 ![HistLatitude](/HistLatitude.png)
 
+<embed 
+       type="text/html" 
+       src="Helsinki_plotly.html"
+       width="800"
+       height="500"
+       >
+Distribution of parking tickets and notices between different postal codes in Helsinki between 2014-2017 
+
+[Here more story about where to park and where not to park in Helsinki]
 
 # Bokeh
 
@@ -48,14 +57,8 @@ If you remain undeterred, you've come to the right place. Because planning is go
 
 There are two types of drivers out there: those who have received a parking ticket and those who will. 
 
-Every year, the city of Helsinki gets income of approx 10 million euros from the parking tickets (160 000 tickets). Roughly estimated, the top 10 locations brought about 760 000 euros from the whole pot (13 000 tickets).
+Every year, the city of Helsinki gets income of approx 10 million euros from the parking tickets (160 000 tickets). Roughly estimated, the top 10 locations brought about 760 000 euros from the whole pot (13 000 tickets). From the graphs below we are able to see the distribution of tickets in Helsinki and the top locations to avoid if you do not want to receive a ticket. 
 
-<embed 
-       type="text/html" 
-       src="Helsinki_plotly.html"
-       width="800"
-       height="500"
-       >
 
 
 <embed 
@@ -67,7 +70,7 @@ Every year, the city of Helsinki gets income of approx 10 million euros from the
 The regional distribution of parking tickets in Helsinki by month in 2014-2017. The top 10 locations for parking tickets are higlighted on the map.
 
 ![Top 10 locations in Helsinki with the most tickets between 2014-2017](/Top 10 locations in Helsinki with the most tickets between 2014-2017.png)
-Top 10 locations for the parking ticket
+Top 10 locations for the parking ticket in Helsinki
  
 
 
@@ -85,23 +88,23 @@ Several large event centers are located nerby such as Olympiastadion, Opera Hous
 ![Olympiastadion next to Mäntymäenkenttä](/Olympiastadion_and_mäntymäenkenttä.png)
 Olympiastadion next to Mäntymäenkenttä.
 
-Most of the events organized in the area are scheduled for the summer months, so the parking fines could be expected to be concentrated in these months. However, we can see from the following graph that this is not really the case. In addition, a major renovation started at the Olympiastadion at the end of 2015, which closed it for almost five years. However, this did not reduce the number of parking fines  on 2016 and 2017, but actually the opposite. Of course, the statictics are affected by many different things, such as the activity of the inspectors but clearly most of the tickets do not fall on the people who are attending the events. Instead, it's likely that most of the fines fall on commuters and the residents of the surronding areas. The summer months are common summer vacation months and the fine amounts are naturallly smaller then. In additon we notice from the graph that the amount of parking tickets did not restore after Covid, even though events were organized in 2022 in the area as before Covid. Therefore, it is more likely that the change is due to the fact that remote work became more common during Covid, and as a result the amount commuters to the center of Helsinki decreased dramatically.
+Most of the events organized in the area are scheduled for the summer months, so the parking fines could be expected to be concentrated in these months. However, we can see from the following graph that this is not really the case. In addition, a major renovation started at the Olympiastadion at the end of 2015, which closed it for almost five years. However, this did not reduce the number of parking fines  on 2016 and 2017, but actually the opposite. Of course, the statictics are affected by many different things, such as the activity of the inspectors but clearly most of the tickets do not fall on the people who are attending the events. It's likely that most of the fines fall on commuters and the residents of the surronding areas. The summer months are common summer vacation months and the fine amounts are naturallly smaller then. In addition, we notice from the graph that the amount of parking tickets did not restore after Covid, even though events were organized in 2022 in the area as before Covid. Therefore, it is more likely that the change is due to the fact that remote work became more common during Covid, and as a result the amount commuters to the center of Helsinki decreased dramatically.
 
 
 ![Parking tickets by month in Mäntymäenkenttä 2014-2017](/Parking tickets by month in Mäntymäenkenttä 2014-2017.png)
 
-On the other hand, there are also many people living in the area where private parking space prices easily rise to more than 200 euros per month. Therefore, a nearby parking lot with free parking overnight, is an attractive option. The writer is able to testify that sometimes it is possible to forgot your car to the parking area, which offers a perfect opportunity for the inspector... 
+On the other hand, there are also many people living in the area where private parking space prices easily rise to more than 200 euros per month. Therefore, a nearby parking lot with free parking overnight, is an attractive option. The writer is able to testify that sometimes it is possible to forgot your car to the parking area, which offers a perfect opportunity for the inspector during the first hours of morning... It would be interesting to study this in more detail and see if the most of the fines are given at nine in the morning. However, the data does not reveal the exact time when the fine was issued and it remains a mystery how large a share the residents of the surrounding areas have of the total amount of fines.
 
 
 # Does the placement of the traffic signs cause the tickets?
 
-When looking at the map describing the distribution of parking fines in Helsinki, most of the top 10 locations have reached the statistics thanks to the parking area located at the spot. However, two particular address catches the eye: Mikonkatu 15 and Salomonkatu 19. There is no big parking area in connection wiht thse addresses. Mikonkatu 15 is located next to central railwaystation and the large number of tickets is probably explained by that. However, Salomonkatu 19 catches the eye. There is no parking area located there and it seems strange how many tickets are coming from such as small street. After research, it turns out that parking at Salomonkatu 19 is completely prohibited. The most common reason for parking ticket is thus not obeying the no-parking zone traffic sign (3130).The question is whether it is really the case that people park in the area on purpose or whether some other factor affects the matter
+When looking at the map describing the distribution of parking fines in Helsinki, most of the top 10 locations have reached the statistics thanks to the parking area located at the spot. However, two particular address catches the eye: Mikonkatu 15 and Salomonkatu 19. There are no large parking area connected with these addresses. Mikonkatu 15 is located next to central railwaystation and the large number of tickets is probably explained by that. However, Salomonkatu 19 catches the eye. There is no parking area located there and it seems strange how big amount of tickets are coming from such as small street. After research, it turns out that parking at Salomonkatu 19 is completely prohibited. The most common reason for parking ticket is thus not obeying the no-parking zone traffic sign (3130).The question is whether it is really the case that so many people park on the street on purpose or whether some other factor affects the matter
 
 ![Salomonkatu_19](/Salomonkatu_19.png)
-Salomonkatu 19. Parking forbidden sign on the right side of the rode. Car owners may be in for a unpleasant suprise...
+Salomonkatu 19. Parking forbidden sign on the right side of the rode. These car owners may be in for a unpleasant suprise...
 
 
-The Kamppi shopping center and several different services are located nearby Salomonkatu 19 and thus the street may be a attractive place to leave your car because it's a bit to the side of the shopping center, and it's quick to leave car there. However, it's really unlikely that so many people would leave their car on purpose knowing that they might get a ticket. There must be something else here...
+The Kamppi shopping center and several different services are located nearby Salomonkatu 19 and thus the street may be a attractive place to leave your car to. It's a bit to the side of the shopping center, and it's quick to leave car there. However, it's really unlikely that so many people would leave their car on purpose knowing that they might get a ticket. There must be something else here...
 
 ![Salomonkatu_19_fine ](/Salomonkatu_19_fine.png)
 Fined car at Salomonkatu 19.
@@ -109,15 +112,15 @@ Fined car at Salomonkatu 19.
 ![salomkatu19_insprector](/salomkatu19_insprector.png)
 Inspector doing his job at Salomonkatu.
 
-Maybe there is some factor causing that people don't simply know about the of the no parking-zone. According to Kossila (2019) no parking zone traffic sign is particularly poorly known in Finland(x source). The location of the sign also raises questions. The sign is located immediately after the roundabout, where the drivers focus is in multiple different things at the same time. When turning right, the driver must look out of the pedestrians and cyclist, and it could be hard to notice the parking sign at the same time. Could the placement of sign cause that drivers don't notice it? 
+Maybe there is some factor causing that people don't simply know about the of the no parking-zone. According to Kossila (2019) no parking zone traffic sign is particularly poorly known in Finland(x source). The location of the sign also raises questions. The sign is located immediately after the roundabout, where the drivers focus is in multiple different things at the same time. When turning right, the driver must look out of the pedestrians and cyclist, and it could be hard to notice the parking sign at the same time. Could the placement of sign cause that drivers don't notice it and therefore get an unpleasant surprise? Maybe the location of the sign could be changed to avoid the unnecessary parking fines. Perhaps it is too productive for the city and thus there isn't change in sight or maybe the city doesn't even know about the situation.
 
 [Source: https://www.hs.fi/autot/art-2000006044133.html]
 
 
 ![Salomonkatu19_driver's_view](/Salomonkatu19_driver's_view.png)
-The driver's view in the roundabout when driving from the Northwest. Salomonkati is located on the right.
+The driver's view in the roundabout when driving from the Northwest. Salomonkatu is located on the right.
 
-
+# Conclusion
 
 
 Data exploration (ideas for plots etc.)
