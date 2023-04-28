@@ -10,6 +10,8 @@ layout: default
 If you have been to Helsinki by car, you will know the hassle of parking. Spots are notoriously hard to find and tickets are 60-80 euros.
 That is a lot, especially considering that its only 4 euros an hour in the daytime in the city center, if you're lucky enough to encounter a spot. So if you are planning on driving in Helsinki, this is the page for you. We'll provide some general tips and guide yu trhough, while maybe telling you a good story along the way. By looking into the parking violations data of past years, we allow you to look up specific areas where you may want to park and show you where and when police and parking agents are the most active. We also provide a map of the city, that let's you explore parking violations and shows you where you can find paid parking lots and other stuff.
 
+![Parkkipate](/Parkkipate.png)
+Picture: SEPPO SOLMELA / IS
 
 # Things you should know before driving in Helsinki
 
@@ -91,7 +93,7 @@ Olympiastadion next to Mäntymäenkenttä.
 Most of the events organized in the area are scheduled for the summer months, so the parking fines could be expected to be concentrated in these months. However, we can see from the following graph that this is not really the case. In addition, a major renovation started at the Olympiastadion at the end of 2015, which closed it for almost five years. However, this did not reduce the number of parking fines  on 2016 and 2017, but actually the opposite. Of course, the statictics are affected by many different things, such as the activity of the inspectors but clearly most of the tickets do not fall on the people who are attending the events. It's likely that most of the fines fall on commuters and the residents of the surronding areas. The summer months are common summer vacation months and the fine amounts are naturallly smaller then. In addition, we notice from the graph that the amount of parking tickets did not restore after Covid, even though events were organized in 2022 in the area as before Covid. Therefore, it is more likely that the change is due to the fact that remote work became more common during Covid, and as a result the amount commuters to the center of Helsinki decreased dramatically.
 
 
-![Parking tickets by month in Mäntymäenkenttä 2014-2017](/Parking tickets by month in Mäntymäenkenttä 2014-2017.png)
+![Parking tickets by month in Mäntymäenkenttä 2014-2022](/Parking tickets by month in Mäntymäenkenttä 2014-2022.png)
 
 On the other hand, there are also many people living in the area where private parking space prices easily rise to more than 200 euros per month. Therefore, a nearby parking lot with free parking overnight, is an attractive option. The writer is able to testify that sometimes it is possible to forgot your car to the parking area, which offers a perfect opportunity for the inspector during the first hours of morning... It would be interesting to study this in more detail and see if the most of the fines are given at nine in the morning. However, the data does not reveal the exact time when the fine was issued and it remains a mystery how large a share the residents of the surrounding areas have of the total amount of fines.
 
