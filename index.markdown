@@ -59,8 +59,7 @@ Distribution of parking tickets and notices between different postal codes in He
 
 There are two types of drivers out there: those who have received a parking ticket and those who will. 
 
-Every year, the city of Helsinki gets income of approx 10 million euros from the parking tickets (160 000 tickets). Roughly estimated, the top 10 locations brought about 760 000 euros from the whole pot (13 000 tickets). From the graphs below we are able to see the distribution of tickets in Helsinki and the top locations to avoid if you do not want to receive a ticket. 
-
+Every year, the city of Helsinki gets income of approx 10 million euros from the parking tickets (160 000 tickets). Roughly estimated, the top 10 locations brought about 760 000 euros from the whole pot (13 000 tickets). From the graphs below we are able to see the distribution of tickets in Helsinki and the top locations to avoid in case you don't want to receive a ticket. 
 
 
 <embed 
@@ -69,10 +68,11 @@ Every year, the city of Helsinki gets income of approx 10 million euros from the
        width="800"
        height="500"
        >
+
 The regional distribution of parking tickets in Helsinki by month in 2014-2017. The top 10 locations for parking tickets are higlighted on the map.
 
 ![Top 10 locations in Helsinki with the most tickets between 2014-2017](/Top 10 locations in Helsinki with the most tickets between 2014-2017.png)
-Top 10 locations for the parking ticket in Helsinki
+Top 10 locations for the parking ticket in Helsinki.
  
 
 
@@ -83,19 +83,29 @@ Mäntymäenkenttä parking area.
 
 The mäntymäenkenttä parking area became chargeable in September 2013. After that, the parking fee at Mäntymäenkenttä was 2 e/hour between 9-21 on weekdays and otherwise free of charge. This change most likely explains why there were significantly fewer parking tickets in 2015 compared to 2014. At 2014, those that have been parking there earlier, were coming and thinking that the parking would be still free and got unpleasant suprise, but learned from that and did not make the same mistake again in the following year.
 
-![Parking tickets by year in Mäntymäenkenttä 2014-2017](/Parking tickets by year in Mäntymäenkenttä 2014-2017.png)
+![](Parking tickets by year in Mäntymäenkenttä 2014-2017.png)  |  ![](Parking tickets by month in Mäntymäenkenttä 2014-2022.png)
+
+Yearly and monthly distribution of parking tickets at Mäntymäenkenttä.
 
 Several large event centers are located nerby such as Olympiastadion, Opera House and Töölö sports hall. These three alone can hold a total of about 45 thousand people. Thus, several sporting events and concerts are organized in the nearby area every year, and therefore Mäntymäenkenttä is in heavy use, especially during the weekends when the Olympiastadion is in use. Considering that most of the earlier mentioned events are held during weekends, it's inevitable to start to question whether the events are the main reason for the large amount of tickets and could there also be something else behind the phenomenon.
 
 ![Olympiastadion next to Mäntymäenkenttä](/Olympiastadion_and_mäntymäenkenttä.png)
 Olympiastadion next to Mäntymäenkenttä.
 
-Most of the events organized in the area are scheduled for the summer months, so the parking fines could be expected to be concentrated in these months. However, we can see from the following graph that this is not really the case. In addition, a major renovation started at the Olympiastadion at the end of 2015, which closed it for almost five years. However, this did not reduce the number of parking fines  on 2016 and 2017, but actually the opposite. Of course, the statictics are affected by many different things, such as the activity of the inspectors but clearly most of the tickets do not fall on the people who are attending the events. It's likely that most of the fines fall on commuters and the residents of the surronding areas. The summer months are common summer vacation months and the fine amounts are naturallly smaller then. In addition, we notice from the graph that the amount of parking tickets did not restore after Covid, even though events were organized in 2022 in the area as before Covid. Therefore, it is more likely that the change is due to the fact that remote work became more common during Covid, and as a result the amount commuters to the center of Helsinki decreased dramatically.
+Most of the events organized in the area are scheduled for the summer months, so the parking fines could be expected to be concentrated in these months. However, we can see from the following graph that this is not really the case. In addition, a major renovation started at the Olympiastadion at the end of 2015, which closed it for almost five years. However, this did not reduce the number of parking fines  on 2016 and 2017, but actually the opposite. Of course, the statictics are affected by many different things, such as the activity of the inspectors but clearly most of the tickets do not fall on the people who are attending the events. It's possible that most of the fines fall on commuters and the residents of the surronding areas. The summer months are common summer vacation months and the fine amounts are naturallly smaller then. In addition, we notice from the graph that the amount of parking tickets did not restore after Covid, even though events were organized in 2022 in the area as before Covid. Therefore, it is most likely that the change is due to the fact that remote work became more common during Covid, and as a result the amount commuters to the center of Helsinki decreased dramatically.
+
+However, if the review the yearly and monthly distribution of the two most common reasons for parking ticket (Parking tickets due to parking in places reserved for buses and parking without parking ID/parking device/parking ticket) we notice something interesting. We are able to see from the following graphs that the yearly and monthly pattern in the parking ticket data is mostly due to tickets due to parking in places reserved for buses. When we remember that you can also get a ticket for that on weekend, even though parking is free during the then, we realize that it is possible that in case there are big events nearby, people leave their cars to the places for buses intentionally or accidentally. This would at least explain why there is so huge differences between amount of tickets between the months.
+
+![](Parking tickets due to parking in places reserved for buses at Mäntymäenkenttä 2014-2022.png)  |  ![](Parking tickets by month due to parking in places reserved for bus Mäntymäenkenttä 2014-2022.png)
+
+Yearly and monthly distribution of parking tickets due to parking in places reserved for buses at Mäntymäenkenttä.
+
+![](Parking tickets due to parking without parking ID ticket at Mäntymäenkenttä 2014-2022.png)  |  ![](Parking tickets by month due to parking without parking ID ticket at Mäntymäenkenttä 2014-2022.png)
+
+Yearly and monthly distribution of parking tickets due to parking without ID/parking device/parking ticket at Mäntymäenkenttä.
 
 
-![Parking tickets by month in Mäntymäenkenttä 2014-2022](/Parking tickets by month in Mäntymäenkenttä 2014-2022.png)
-
-On the other hand, there are also many people living in the area where private parking space prices easily rise to more than 200 euros per month. Therefore, a nearby parking lot with free parking overnight, is an attractive option. The writer is able to testify that sometimes it is possible to forgot your car to the parking area, which offers a perfect opportunity for the inspector during the first hours of morning... It would be interesting to study this in more detail and see if the most of the fines are given at nine in the morning. However, the data does not reveal the exact time when the fine was issued and it remains a mystery how large a share the residents of the surrounding areas have of the total amount of fines.
+On the other hand, there are also many people living in the area where private parking space prices easily rise to more than 200 euros per month. Therefore, a nearby parking lot with free parking overnight, is an attractive option. The writer is able to testify that sometimes it is possible to forgot your car to the parking area, which offers a perfect opportunity for the inspector during the first hours of morning... It would be interesting to study this in more detail and see if the most of the fines are given at 9am. However, the data does not reveal the exact time when the fine was issued and it remains a mystery how large a share the residents of the surrounding areas have for the total amount of fines.
 
 
 # Does the placement of the traffic signs cause the tickets?
