@@ -23,8 +23,8 @@ title: Parking Violations in Helsinki
 
 description: Where to park and how past parking violations in Helsinki can help you avoid a ticket.
 
-#baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://valdde.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "valdde.github.io" # the subpath of your site, e.g. /blog
+#url: "https://valdde.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  Valdde
 
