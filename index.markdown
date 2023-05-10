@@ -135,20 +135,10 @@ The driver's view in the roundabout when driving from the Northwest. Salomonkatu
 # Conclusion
 
 
+
 Data exploration (ideas for plots etc.)
 
 The page, pick a theme, maybe some minor aesthetics
-
-Idea of the main interactive visualization
-  how do we display this in the video?
-
-Outline of the movie
-
-"Are you familiar with this situation? And are you looking to avoid it in the future? Well, if you are going to be parking in Helsinki, there is good chance you will. In Helsinki around 160.000 tickets are given out each year. Luckily, we are here to help you out. By using the Helsinki parking violations data from 2014 and onwards, our magazine style blog will provide you with tips, tricks, interactive figures and maps, that helps you know where to park - and where not to park - if you want to avoid the 80 Euro fine."
-
-"Our dataset describes the parking tickets in Helsinki between 2014 and 2017
-The total size of the data is 644900 rows including basic information such as year, month, address and coordinates of the parking ticket. In addition, fine issuer, postal code, postal district area, municipality and municipality number are included."
-
 
 
 
