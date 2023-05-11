@@ -135,7 +135,6 @@ According to Kossila (2019) no parking zone traffic sign is particularly poorly 
 The driver's view in the roundabout when driving from the Northwest. Salomonkatu is located on the right.
 
 
-# Conclusion
 
 In conclusion, parking in Helsinki can be challenging and expensive. The data analysis and visualizations reveal that parking violations are prevalent in the city, with a steady total of fines given out during each year. Two types of penalties are issued: fines and notices. While fines are the most common form, the city also utilizes notices as reminders for inadequate parking. However, the use of notices is limited, with parking agents primarily responsible for them, while the police focus on issuing actual tickets when necessary for them.
 
@@ -145,7 +144,8 @@ Furthermore, the article raises questions about the effectiveness of traffic sig
 
 
 
- # Sources
+# Sources
+
 Riikonen Jose, 2019, Helsingin Sanomat, Nämä ovat Helsingin pahimmat pysäköinti­sakko­rysät, can be found from: https://www.hs.fi/autot/art-2000006044133.html
 
 
