@@ -42,9 +42,7 @@ If you remain undeterred, you've come to the right place. Because planning is go
        width="800"
        height="500"
        >
-Distribution of parking tickets and notices between different postal codes in Helsinki between 2014-2017 
-
-[Here more story about where to park and where not to park in Helsinki]
+Distribution of parking tickets and notices between different postal codes in Helsinki between 2014-2017. As we are able to see, that there has been about 89 thousand parking tickets given in the time period in the center of Helsinki(00100). 
 
 # Bokeh
 
@@ -110,7 +108,7 @@ On the other hand, there are also many people living in the area where private p
 
 # Does the placement of the traffic signs cause the tickets?
 
-When looking at the map describing the distribution of parking fines in Helsinki, most of the top 10 locations have reached the statistics thanks to the parking area located at the spot. However, two particular address catches the eye: Mikonkatu 15 and Salomonkatu 19. There are no large parking area connected with these addresses. Mikonkatu 15 is located next to central railwaystation and the large number of tickets is probably explained by that. However, Salomonkatu 19 catches the eye. There is no parking area located there and it seems strange how big amount of tickets are coming from such as small street. After research, it turns out that parking at Salomonkatu 19 is completely prohibited. The most common reason for parking ticket is thus not obeying the no-parking zone traffic sign (4 946 between 2014 and 2022).The question is whether it is really the case that so many people park on the street on purpose or whether some other factor affects the matter
+When looking at the map describing the distribution of parking fines in Helsinki, most of the top 10 locations have reached the statistics thanks to the parking area located at the spot. However, two particular address catches the eye: Mikonkatu 15 and Salomonkatu 19. There are no large parking area connected with these addresses. Mikonkatu 15 is located next to central railwaystation and the large number of tickets is probably explained by that. However, Salomonkatu 19 catches the eye. There is no parking area located there and it seems strange how big amount of tickets are coming from such as small street. After research, it turns out that parking at Salomonkatu 19 is completely prohibited. The most common reason for parking ticket is thus not obeying the no-parking zone traffic sign (4 946 between 2014 and 2022).The question is whether it is really the case that so many people park on the street on purpose or whether some other factor affects the matter.
 
 ![Salomonkatu_19](/Salomonkatu_19.png)
 Salomonkatu 19. Parking forbidden sign on the right side of the rode. These car owners may be in for a unpleasant suprise...
@@ -124,31 +122,29 @@ Fined car at Salomonkatu 19.
 ![salomkatu19_insprector](/salomkatu19_insprector.png)
 Inspector doing his job at Salomonkatu.
 
-According to Kossila (2019) no parking zone traffic sign is particularly poorly known in Finland(x source).Or maybe there is some factor causing that people don't simply know about the of the no parking-zone. That is why the location of the sign also raises questions. The sign is located immediately after the roundabout, where the drivers focus is in multiple different things at the same time. When turning right, the driver must look out of the pedestrians and cyclist, and it could be hard to notice the parking sign at the same time. Could the placement of sign cause that drivers don't notice it and therefore get an unpleasant surprise? Maybe the location of the sign could be changed to avoid the unnecessary parking fines. However, it might be too productive for the city and thus there isn't change in sight. Or maybe the city doesn't even know about the situation.
+According to Kossila (2019) no parking zone traffic sign is particularly poorly known in Finland(HS, 2019).Or maybe there is some factor causing that people don't simply know about the of the no parking-zone. That is why the location of the sign also raises questions. The sign is located immediately after the roundabout, where the drivers focus is in multiple different things at the same time. When turning right, the driver must look out of the pedestrians and cyclist, and it could be hard to notice the parking sign at the same time. Could the placement of sign cause that drivers don't notice it and therefore get an unpleasant surprise? Maybe the location of the sign could be changed to avoid the unnecessary parking fines. However, it might be too productive for the city and thus there isn't change in sight. Or maybe the city doesn't even know about the situation.
 
-[Source: https://www.hs.fi/autot/art-2000006044133.html]
+
 
 
 ![Salomonkatu19_driver's_view](/Salomonkatu19_driver's_view.png)
 The driver's view in the roundabout when driving from the Northwest. Salomonkatu is located on the right.
 
+
 # Conclusion
 
+In conclusion, parking in Helsinki can be challenging and expensive. The data analysis and visualizations reveal that parking violations are prevalent in the city, with a steady total of fines given out during each year. Two types of penalties are issued: fines and notices. While fines are the most common form, the city also utilizes notices as reminders for inadequate parking. However, the use of notices is limited, with parking agents primarily responsible for them, while the police focus on issuing actual tickets when necessary for them.
 
+To assist drivers in navigating parking in Helsinki, the article provides visual representations of the distribution of parking tickets and notices across different postal codes. Additionally, it highlights the top locations where parking tickets are issued, such as the Mäntymäenkenttä parking area in Töölö. This particular area is frequently associated with parking violations, mainly due to parking in places reserved for buses, parking without a valid ticket or ID, and unauthorized parking in private areas. 
 
-Data exploration (ideas for plots etc.)
-
-The page, pick a theme, maybe some minor aesthetics
-
-
-
-  make sure we get it all in there: look at  https://github.com/suneman/socialdata2023/wiki/Final-Project
+Furthermore, the article raises questions about the effectiveness of traffic sign placement and its influence on parking violations. The example of Salomonkatu 19 demonstrates that despite a clear no-parking zone, a significant number of tickets are issued in that area. The placement of the no-parking sign immediately after a roundabout raises concerns about driver awareness and potential surprises. It suggests that drivers may not notice the sign due to distractions and the need to focus on other aspects of driving, leading to unintentional violations.
 
 
 
+ # Sources
+Riikonen Jose, 2019, Helsingin Sanomat, Nämä ovat Helsingin pahimmat pysäköinti­sakko­rysät, can be found from: https://www.hs.fi/autot/art-2000006044133.html
 
-Sources: 
-https://yle.fi/a/3-9939416 
-https://yle.fi/a/3-10281783 
+
+
 
 
