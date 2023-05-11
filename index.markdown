@@ -48,7 +48,7 @@ Distribution of parking tickets and notices between different postal codes in He
 
 <embed 
        type="text/html" 
-       src="Bokeh_Plot.html"
+       src="Bokeh_Plot.htm"
        width="1100"
        height="800"
        >
