@@ -32,6 +32,8 @@ If you remain undeterred, you've come to the right place. Because planning is go
 
 # Density of the data - city center can be an expensive place to park!
 
+From these simple density histograms of parking offences we clearly see, that the city center has a lot of offences. That is not surprising though and neither is the fact that there are some sharp drops, which merely represent the fact that Helsinki has water on multiple sides.
+
 ![HistLongitude](/HistLongitude.png)
 
 ![HistLatitude](/HistLatitude.png)
@@ -45,6 +47,8 @@ If you remain undeterred, you've come to the right place. Because planning is go
 Distribution of parking tickets and notices between different postal codes in Helsinki between 2014-2017. As we are able to see, that there has been about 89 thousand parking tickets given in the time period in the center of Helsinki(00100). 
 
 # Bokeh
+
+Next, we look into the distribution across the year for different areas of Helsinki. Particularly, we have chosen the 10 areas with the most parking tickets and now look into the monthly distribution of them. Thus, wenormalize the data w.r.t. to its total so that we may see the monthly patterns. As parking offences in absolute numbers are quite different across the areas, normalization is used to get a more reasonably looking plot where the scaling supports the aesthetics of the plot. However, as normalization is done within each areas data, the data cannot be compared directly from one area to another. The area Taka-Töölö which has the most parking tickets, may still - even in a low incident month - be a more risky place to park despite it looking lower in comparison to a different area in that specific month. 
 
 <embed 
        type="text/html" 
